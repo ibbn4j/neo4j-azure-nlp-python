@@ -1,0 +1,4 @@
+neo4j
+azure-cognitiveservices-vision-computervision
+pillow
+azure-ai-textanalytics==5.1.0
